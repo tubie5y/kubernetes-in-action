@@ -1,5 +1,5 @@
-kind: List
 apiVersion: v1
+kind: List
 items:
 - apiVersion: v1
   kind: PersistentVolume
